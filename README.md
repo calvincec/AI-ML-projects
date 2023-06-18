@@ -9,10 +9,16 @@ Description about the objective of each file is stated from the notebook itself 
 This notebook helps in understanding the Adversarial search Algorithm used in Artificial Intelligence <br/> 
 It aims to code the famous Tic Tac Toe game which involves two players with consercutive moves one player uses X as his/her move and the other uses O <br/> 
 In this case, a user is going to play against the AI model <br/> 
+<h4>2. Knights and knaves</h4>
+This project Used to enhance understanding of the knowledge and Reasoning concepts to solve logic puzzles<br/>
+The idea is based on Raymond Smullyan's book, "What is the name of this book?" which contains “Knights and Knaves” puzzles.<br/>
+More description about the code is well illustrated in the notebook itself
+
 
 <h2>How to use them</h2>
 
 . Download each file to your local machine, or clone them to the local repository <br/> 
 . Save each file to your google drive account and run using google colaboratory app <br/> 
 . You may prefer using any other notebook but remember to ensure your local machine has the required libraries installed <br/> 
-. The required libraries are in the first code cells of each file
+. The required libraries are in the first code cells of each file <br/> 
+. You may prefer using the `preview` button on each code to see its layout and general implementation
