@@ -14,6 +14,15 @@ This project Used to enhance understanding of the knowledge and Reasoning concep
 The idea is based on Raymond Smullyan's book, "What is the name of this book?" which contains “Knights and Knaves” puzzles.<br/>
 More description about the code is well illustrated in the notebook itself
 
+<h4>3. Traffic Light model</h4>
+This work aims to explore Machine Learning algorithms. <br/>
+It focuses on using Neural Networks and activation functions and their application in training, testing and evaluation of models<br/>
+This project uses TensorFlow to build a neural network to classify road signs based on an image of those signs<br/>
+It uses the the German Traffic Sign Recognition Benchmark (GTSRB) dataset which is a labbeled data set  which contains thousands of images of 43 different kinds of road signs.<br/>
+German Traffic Sign Recognition Benchmark (GTSRB) dataset can be found in the following link:
+http://benchmark.ini.rub.de/?section=gtsrb&subsection=news <br/>
+You may clone this to the local repository to see how it works
+
 
 <h2>How to use them</h2>
 
